@@ -1,0 +1,15 @@
+
+one ->
+duodecimal digit
+
+two ->
+hole card
+
+three ->
+ace
+
+four ->
+5
+
+five ->
+battery

@@ -1,0 +1,9 @@
+
+big red fire truck ->
+overlarge.s.01 claret.n.01 canal.v.01 bus.v.01
+
+[A ->
+[ A
+
+exit ->
+roll.v.11

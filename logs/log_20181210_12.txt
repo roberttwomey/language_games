@@ -1,0 +1,12 @@
+
+test ->
+test
+
+this is a test ->
+this is a test
+
+[A ->
+[ A
+
+exit ->
+exit

@@ -1,0 +1,24 @@
+
+this is a test ->
+this is a test
+
+mutate my small red car ->
+mutate my small red car
+
+[A ->
+[ A
+
+exit() ->
+exit()
+
+ ->
+
+
+:exit ->
+: exit
+
+ ->
+
+
+exit ->
+exit

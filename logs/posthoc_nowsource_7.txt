@@ -1,0 +1,405 @@
+
+coyote ->
+coydog 
+
+dog ->
+poodle dog 
+
+cat ->
+cheetah 
+
+two cats ->
+snake eyes Panthera tigris 
+
+dog with stuffed raccoon ->
+corgi with overstuff Procyon cancrivorus 
+
+peregrine falcon ->
+falcon-gentle Falco rusticolus 
+
+cat head ->
+cheetah spearhead 
+
+ferret ->
+ferret 
+
+small blurry dog photo ->
+small blurry lapdog headshot 
+
+earnest looking dog on kitchen floor ->
+earnest money glint hunting dog on caboose basement 
+
+small fluffy ewok dog ->
+small fluffy ewok lapdog 
+
+amelia earhart with her father "Amelia with her father, Edwin Stanton Earhart. His alcoholism" ->
+amelia earhart with her old man amelia with her colonizer edwin stanton earhart his alcoholism 
+
+adult male bactrian wapiti ->
+golden ager foster brother bactrian hind 
+
+some sort of large deer-like animal ->
+some description of large brocket love adult 
+
+female bactrian wapiti ->
+female child bactrian brocket 
+
+male bactrian wapiti with antlers ->
+male offspring bactrian brocket with antlers 
+
+wapiti with short horns ->
+brocket with short claxon 
+
+three wapiti sitting on the ground ->
+three brocket override on the landmass 
+
+young amelia in a nurses uniform ->
+orphan amelia in a scrub nurse livery 
+
+pacifier (rifle drawing) ->
+appeaser displume thread 
+
+feedback ->
+negative feedback 
+
+feed-forward ->
+fodder forward 
+
+finite state machine ->
+finite unification machinery 
+
+mainframe computer.  white space. ->
+supercomputer totalisator bleach paint 
+
+raccoon at night with food dish, looking at camera ->
+crab-eating raccoon at wedding night with junk food lutefisk give the once over at Polaroid Land camera 
+
+raccoon in profile, at night ->
+common raccoon in population profile at weeknight 
+
+raccoon by the sea ->
+Procyon cancrivorus by the head sea 
+
+raccoon in a field ->
+crab-eating raccoon in a lap 
+
+raccoon on a log ->
+Procyon cancrivorus on a patent log 
+
+raccoon standing in a tree, holding the trunk ->
+ringtail dishonour in a marblewood hold on the footlocker 
+
+raccoon on a branch, in profile ->
+Procyon cancrivorus on a tributary in low profile 
+
+closeup of raccoon face, holding something ->
+closeup of Procyon lotor italic canonise something 
+
+raccoon sticking its claws through the fence ->
+Procyon cancrivorus bind its tenterhook through the stone wall 
+
+rachel the racoon in the laundry room ->
+rachel the common raccoon in the washhouse gallery 
+
+raccoon in a have-a-heart trap ->
+crab-eating raccoon in a fence a stuff pit 
+
+amelia earhart in st. paul, 1914 ->
+amelia earhart in st paul 1914 
+
+table specifying hex code: alphanumeric and digital representations ->
+work table provide voodoo omerta alphanumeric and digital shade 
+
+some sort of mainframe computer, control data corporation 7400(?) ->
+some isolate of supercomputer analogue computer imperialism raw data FNMA 7400 
+
+IBM stretch, atomic energy commission, los alamos scientific laboratory ->
+ibm spread-eagle atomic work misdirection los alamos scientific physics laboratory 
+
+CDC 7400 in color ->
+cdc 7400 in purple 
+
+cross-shaped control data corporation mainframe ->
+dihybrid reshape crowd control indication small cap supercomputer 
+
+amelia earhart and anita (neta) snook in california, 1921 ->
+amelia earhart and anita neta snook in california 1921 
+
+amelia in the cockpit of her electra.   ->
+amelia in the cockpit of her electra 
+
+amelia and a team of men consulting next to the plane engine  ->
+amelia and a powerhouse of ex-boyfriend collogue next to the multiengine plane heat engine 
+
+amelia meeting the mayor of southampton, dressed in her flight suit. ->
+amelia stockholders meeting the alcalde of southampton dandify in her low level flight bundling 
+
+one of the last photos taken of Amelia. ->
+singleton of the drag out mug shot clear of amelia 
+
+Amelia and two men (joseph beuys?) standing next to the engine. ->
+amelia and duet ex-husband joseph beuys stand back next to the traction engine 
+
+amelia takes a catnap ->
+amelia nominate a siesta 
+
+"when I wake up I am going to fly around the world" ->
+when I call up I am swim to red-eye around the admass 
+
+control data 6600 computer system ->
+internal control statistic 6600 number cruncher promotion system 
+
+control data 6600 with two men at the main console, on a floor like my grandmother's house ->
+ascendent raw data 6600 with duad sailor boy at the sewer main calm on a wage floor prefer my nan s accommodate 
+
+dead start panel ->
+slain go back window 
+
+control data 6600 from the computer history museum ->
+control reading 6600 from the analogue computer etymology science museum 
+
+an image of the control data 6600 console and two processing cabinets ->
+an oxymoron of the seizing accounting data 6600 allay and craps vulcanisation US Cabinet 
+
+my brother and me in a small photograph ->
+my Freemason and me in a small skiagram 
+
+"writ large" drawing ->
+summons large stick figure 
+
+physical journey ->
+physical tour 
+
+myopic ridiculousness ->
+myopic ridiculousness 
+
+"i've only ever thought of high performance in terms of quantity" ->
+i ve only ever reaction of overdrive play reading in purchase price of octane rating 
+
+nervous system retracting, root canal, alzheimers, drinking, diagram ->
+nervous ADP system invaginate pneumatophore lacrimal duct alzheimers guggle schematic 
+
+bent chair ->
+brown bent daybed 
+
+tape drive cassette ->
+magnetic stripe reform audiocassette 
+
+tape drive cassette ->
+write firewall audiocassette 
+
+toilet paper roll ->
+convenience rice paper death-roll 
+
+electric outlet ->
+electric shopping centre 
+
+minimal bed on bedroom floor ->
+minimal bunk down on guestroom loft 
+
+"an open minded-ness verging on idiocy" ->
+an break open worry tongue verging on idiocy 
+
+raggedy andy ->
+raggedy andy 
+
+jasper johns with upper lip removed ->
+jasper johns with Benzedrine underlip take out 
+
+jasper johns in profile ->
+jasper johns in population profile 
+
+my parents ->
+my stepparent 
+
+young jasper johns on bench with large numbers ->
+young mammal jasper johns on settee with large recount 
+
+young robert rauschenberg as a sailer ->
+young bird robert rauschenberg as a sailer 
+
+william vollmann ->
+william vollmann 
+
+robert rauschenberg in a white suit and black bow tie ->
+robert rauschenberg in a paleface pinstripe and soot black Cupid's bow bridge 
+
+robert rauschenberg in a white shirt with rolled up sleeves ->
+robert rauschenberg in a chalk dress shirt with cog up dolman sleeve 
+
+very young robert rauschenberg with early sculpture show ->
+very young bird robert rauschenberg with early relief prove 
+
+dapper jasper johns looking at the camera ->
+dapper jasper johns sight at the portrait camera 
+
+haggard jasper johns smoking a cigarette in japan ->
+haggard jasper johns inhale a cubeb in japan 
+
+small photo of someone's yard, along with caption "Amelia in the uniform of a Voluntary Aid Detachment Nurse" ->
+small shot of mouse s main yard along with caption amelia in the jump suit of a postlude facilitate break visiting nurse 
+
+amelia kneeling in front of a large two-prop airplane ->
+amelia kneeling in falun gong of a large yoke pitprop delta wing 
+
+william vollmann in truckers cap, thick glasses ->
+william vollmann in truckers mobcap thick goggles 
+
+reed picking berries in germany ->
+double-reed instrument berry raspberry in germany 
+
+major and patches ->
+major and bed 
+
+john and robert on porch ->
+head and robert on deck 
+
+robert with scalp wound stapled shut ->
+robert with lift subluxate stapled lock out 
+
+abby and robert in barcelona ->
+abby and robert in barcelona 
+
+abby and robert kissing on the roof in barcelona ->
+abby and robert peck on the thatch in barcelona 
+
+abby and robert kissing on the roof at night in barcelona ->
+abby and robert snogging on the glass ceiling at weeknight in barcelona 
+
+major in the back yard ->
+major in the running back junkyard 
+
+abby looking skeptical at the camera by the beach in barcelona ->
+abby regard skeptical at the box camera by the plage in barcelona 
+
+reed at his wedding rehearsal, with glasses on ->
+common reed at his mismarry walk-through with bifocals on 
+
+liz lee at abby's house ->
+liz lee at abby s auction house 
+
+mark sherburne laughing with a hat on ->
+characterise sherburne break up with a cocked hat on 
+
+street picture taking in pot top ->
+alley sonogram leach in flushless toilet hop 
+
+major in the kitchen ->
+major in the caboose 
+
+john robert and katherine running on the beach ->
+W.C. robert and katherine hare on the plage 
+
+abby and robert on the barcelona roof again ->
+abby and robert on the barcelona hip roof again 
+
+robert's scalp wound stapled shut again ->
+robert s lift mortify stapled slat again 
+
+robert and abby kissing on the roof again ->
+robert and abby smack on the thatched roof again 
+
+abby and robert kissing on the roof at night again ->
+abby and robert smack on the thatched roof at weeknight again 
+
+abby and robert at the airport ->
+abby and robert at the heliport 
+
+more pot top reflections of streets ->
+more saucepot screwtop interreflection of side street 
+
+rauschenberg in a chorus line as part of a dance number ->
+rauschenberg in a ensemble fiber optic cable as limb of a saraband biquadratic 
+
+rauschenberg working on a dance piece ->
+rauschenberg mound on a pas de quatre beam 
+
+rauschenberg and jasper johns having a smoke in the studio ->
+rauschenberg and jasper johns give off a cigar in the atelier 
+
+rauschenberg preparing a screen for printing ->
+rauschenberg dress out a blind for lithograph 
+
+rauschenberg's head ->
+rauschenberg s dock 
+
+rauschenberg on the floor during a dance number ->
+rauschenberg on the mezzanine during a formal cube 
+
+rauschenberg in the studio looking down ->
+rauschenberg in the broadcasting studio scrutiny educate 
+
+rasuchenberg hanging from a roped during his athletic performance peice ->
+rasuchenberg overhang from a roped during his athletic linguistic performance peice 
+
+rauschenberg in a shadow in a suit ->
+rauschenberg in a penumbra in a bundling 
+
+vollmann looking like a titan ->
+vollmann squint care for a Epimetheus 
+
+young vollmann holding a gun to his head ->
+hatchling vollmann carry a cannon to his matter of law 
+
+vollmann looking like a titan with a prostitute hanging around his waist ->
+vollmann coup d'oeil prefer a Epimetheus with a call girl dossal around his wasp waist 
+
+vollmann looking earnest in his UN flak jacket. ->
+vollmann peek earnest money in his UN Bofors gun lumberjack 
+
+vollmann holding the gun to his head again ->
+vollmann material possession the four-pounder to his administrator again 
+
+vollmann with his daughter on his shoulders ->
+vollmann with his mother's daughter on his hard shoulder 
+
+vollman n with that gun against his head yet again ->
+vollman n with that ack-ack against his head of household yet again 
+
+the private toilet stall in the men's restroom ->
+the private flush toilet voting booth in the Rhodesian man s latrine 
+
+rasuchenberg and two friends at a dinner table ->
+rasuchenberg and span philhellenist at a high tea pingpong table 
+
+vollmann as a cut paper doll ->
+vollmann as a brisket music paper toy soldier 
+
+amelia, california business girl ->
+amelia california venture maid 
+
+amelia on mount wilson in 1923 ->
+amelia on volcano wilson in 1923 
+
+amelia in her nurse's aide uniform at Spadina Military Hospital, Toronto. ->
+amelia in her scrub nurse s adjutant general jump suit at spadina reserve creche toronto 
+
+Amelia as the bobbed-hair girl graduate of the twenties ->
+amelia as the bob around coat bimbo graduated cylinder of the twenties 
+
+amelia as the toronto war nurse ->
+amelia as the toronto trench warfare head nurse 
+
+amelia in her training plane in boston, 1926 ->
+amelia in her practice session scrub plane in boston 1926 
+
+amelia revving up the propeller, los angeles, 1921 ->
+amelia revving up the variable-pitch propeller los angeles 1921 
+
+rare photo of amelia with her long hair ->
+rare photographic print of amelia with her ache stinging hair 
+
+amelia and some unidentified woman ->
+amelia and some unidentified shiksa 
+
+amelia and one of her husbands ->
+amelia and singleton of her benedict 
+
+amelia with her father again ->
+amelia with her papa again 
+
+amelia's pilot license ->
+amelia s solo marriage licence 
+
+studio portrait of amelia, 1928, in her white night outfit ->
+atelier half-length of amelia 1928

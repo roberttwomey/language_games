@@ -1,0 +1,15 @@
+
+red firetrick ->
+gross.n.02 firetrick
+
+red firetruck ->
+revolutionist.n.01 firetruck
+
+red fire truck ->
+deductible.n.01 news event.n.01 applecart.n.02
+
+[A ->
+[ A
+
+exit ->
+carbonize.v.01

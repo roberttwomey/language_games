@@ -1,0 +1,18 @@
+
+one ->
+cipher
+
+two ->
+eighter
+
+three ->
+trump
+
+four ->
+triad
+
+five ->
+hockey team
+
+six ->
+nine-spot

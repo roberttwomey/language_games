@@ -1,0 +1,3081 @@
+
+robert's test. with punctuation ->
+ Henry M. Robert's takeover attempt. with dislocation
+
+robert's test. with punctuation ->
+ Henry M. Robert's envelope. with hyphenation
+
+robert's test. with punctuation ->
+ Henry Martyn Robert's enter. with disruption
+
+robert's test. with punctuation ->
+ Robert's alpha test. with phrasing
+
+robert's test. with punctuation ->
+ Robert's contact. with disruption
+
+robert's test. with punctuation ->
+ Henry M. Robert's represent. with parenthesis
+
+robert's test. with punctuation ->
+ Henry M. Robert's trial. with stop
+
+robert's test. with punctuation ->
+ Robert's hoodoo. with exclamation mark
+
+robert's test. with punctuation ->
+ Henry M. Robert's delimit. with arrow
+
+robert's test. with punctuation ->
+ Henry Martyn Robert's diverge. with hyphenation
+
+robert's test. with punctuation ->
+ Henry M. Robert's rage. with dollar sign
+
+robert's test. with punctuation ->
+ Henry M. Robert's review. with ampersand
+
+robert's test. with punctuation ->
+ Henry M. Robert's alpha test. with bracket
+
+robert's test. with punctuation ->
+ Henry Martyn Robert's fall. with angle bracket
+
+robert's test. with punctuation ->
+ Henry M. Robert's field trial. with square bracket
+
+robert's test. with punctuation ->
+ Robert's indumentum. with check mark
+
+:q ->
+:q
+
+quit ->
+ close off
+
+distorted world map cartography from the new york times ->
+ draw Great Lakes place moviemaking from the new Seljuk regulation time
+
+distorted world map cartography from the new york times ->
+ intertwine electron shell paint moviemaking from the new Stuart slot
+
+distorted world map cartography from the new york times ->
+ redound yeomanry base cartography from the new Capetian dynasty incubation period
+
+distorted world map cartography from the new york times ->
+ tie consolidation pioneer mapmaking from the new Tang phase of the moon
+
+distorted world map cartography from the new york times ->
+ flatten out point of honor map mapmaking from the new Hohenzollern prime
+
+distorted world map cartography from the new york times ->
+ weave man radiolocate cartography from the new Ottoman minus
+
+:q ->
+:q
+
+quit ->
+ leave office
+
+distorted world map cartography from the new york times ->
+ wring closed universe sketch map cartography from the new york modern times
+
+distorted world map cartography from the new york times ->
+ wrench admass Kronecker delta cartography from the new york modern world
+
+distorted world map cartography from the new york times ->
+ entwine closed universe isometry cartography from the new york Roman times
+
+distorted world map cartography from the new york times ->
+ jaundice admass plat cartography from the new york Roman times
+
+distorted world map cartography from the new york times ->
+ spin Grub Street multinomial cartography from the new york Roman times
+
+distorted world map cartography from the new york times ->
+ interweave closed universe isometry cartography from the new york modern world
+
+distorted world map cartography from the new york times ->
+ twine closed universe chart cartography from the new york Roman times
+
+distorted world map cartography from the new york times ->
+ mutilate Grub Street Kronecker delta cartography from the new york Roman times
+
+distorted world map cartography from the new york times ->
+ lace academia operator cartography from the new york Roman times
+
+distorted world map cartography from the new york times ->
+ jaundice academia sketch map cartography from the new york modern times
+
+quit ->
+ sign off
+
+and now, to try something with punctuation! ->
+ and date, to react something with punctuation
+
+and now, to try something with punctuation! ->
+ and now, to force something with assortment
+
+and now, to try something with punctuation! ->
+ and tonight, to work something with eclipse
+
+ ->
+
+
+and now, to try something with punctuation! ->
+ and moment, to respond something with disruption
+
+quit ->
+ go out
+
+and now, to try something with punctuation! ->
+ and now, to respond something with sorting
+
+and now, to try something with punctuation! ->
+ and present moment, to egotrip something with punctuation
+
+and now, to try something with punctuation! ->
+ and today, to finish up something with assembling
+
+and now, to try something with punctuation! ->
+ and today, to review something with punctuation mark
+
+and now, to try something with punctuation! ->
+ and here and now, to condescend something with head
+
+and now, to try something with punctuation! ->
+ and date, to play something with point
+
+and now, to try something with punctuation! ->
+ and tonight, to leading something with call number
+
+quit ->
+ resign
+
+ ->
+
+
+and now, once more, with feeling! ->
+andanddate andanddate,once andanddate andanddate,onceMuriel_Sarah_Spark andanddate andanddate,once andanddate andanddate,onceMuriel Sarah Spark,with andanddate andanddate,once andanddate andanddate,onceMuriel Sarah Spark andanddate andanddate,once andanddate andanddate,onceMuriel Sarah Spark,withswim andanddate andanddate,once andanddate andanddate,onceMuriel Sarah Spark andanddate andanddate,once andanddate andanddate,onceMuriel Sarah Spark,with andanddate andanddate,once andanddate andanddate,onceMuriel Sarah Spark andanddate andanddate,once andanddate andanddate,onceMuriel Sarah Spark,withswim!
+
+quit ->
+come_awaycome away
+
+hellow ->
+hellowhellow
+
+quit ->
+go_outgo out
+
+and now, once more, with feeling! ->
+and nonce, once Kemal Ataturk, with lubricate!
+
+and now, once more, with feeling! ->
+and now, once Doctorow, with feel!
+
+and now, once more, with feeling! ->
+and tonight, once Mordecai Richler, with kink!
+
+and now, once more, with feeling! ->
+and time being, once Thomas Edward Lawrence, with feel!
+
+and now, once more, with feeling! ->
+and tonight, once Jakob Grimm, with jumble!
+
+and now, once more, with feeling! ->
+and nonce, once Walker, with misperceive!
+
+and now, once more, with feeling! ->
+and today, once Edna Ferber, with be!
+
+and now, once more, with feeling! ->
+and today, once Plath, with immediacy!
+
+and now, once more, with feeling! ->
+and today, once Charles James Fox, with kink!
+
+and now, once more, with feeling! ->
+and time being, once Imamu Amiri Baraka, with osculate!
+
+quit ->
+come away
+
+and now, once more, with feeling! ->
+and now, once Golding, with constancy!
+
+        morphed_token=morphy(clean_token,'verb') ->
+plasticize phonograph recording disk= morphy( unstring lingam,' noun')
+
+        if morphed_token!=None: ->
+if cloud vagabond!= Prayer Meeting:
+
+                if morphed_token in wordnet.V: ->
+if digitise Crown in wordnet. V:
+
+                        results+=relfn(wordnet.V[morphed_token].synsets()) ->
+break+= relfn( Princeton WordNet. V[ civilize discard]. bracket())
+
+and now, once Golding, with constancy! ->
+and time being, once Buck, with beholding!
+
+and now, once Golding, with constancy! ->
+and at present, one time Lewis, with constancy!
+
+and now, once Golding, with constancy! ->
+and today, once Journalist, with dedication!
+
+and now, once Golding, with constancy! ->
+and tonight, once Wright, with unexchangeability!
+
+and now, once Golding, with constancy! ->
+and now, erstwhile Francois Rene Chateaubriand, with absoluteness!
+
+and now, once Golding, with constancy! ->
+and tonight, once Lawrence, with fixity!
+
+and now, once Golding, with constancy! ->
+and at present, once Arouet, with unexchangeability!
+
+and now, once Golding, with constancy! ->
+and date, once John Irving, with innateness!
+
+quit ->
+come away
+
+and now, faster, happy, happier with feeling! ->
+and today, faster, well-chosen, happier with osculate!
+
+quit ->
+get out
+
+and now, once Golding, with constancy! ->
+and date, once Joyce, with irreversibility!
+
+and now, faster, happy, happier with feeling! ->
+and tonight, faster, blessed, happier with strike!
+
+and now, faster, happy, happier with feeling! ->
+and here and now, quicker, golden, happier with ornamentation!
+
+and now, faster, happy, happier with feeling! ->
+and now, faster, riant, happier with promise!
+
+and now, faster, happy, happier with feeling! ->
+and now, quicker, blissful, happier with count!
+
+and now, faster, happy, happier with feeling! ->
+and moment, faster, felicitous, happier with seem!
+
+and now, faster, happy, happier with feeling! ->
+and date, faster, willing, happier with enlargement!
+
+and now, faster, happy, happier with feeling! ->
+and tonight, faster, golden, happier with generalisation!
+
+quit ->
+pop off
+
+and now, faster, happy, happier with feeling! ->
+and here and now, faster, good, happier with miasma!
+
+and now, faster, happy, happier with feeling! ->
+and time being, quicker, golden, happier with kill!
+
+quit ->
+linger
+
+and now, faster, happy, happier with feeling! ->
+and moment, faster, prosperous, happier with theme!
+
+and now, faster, happy, happier with feeling! ->
+and here and now, faster, blessed, happier with illumination!
+
+and now, faster, happy, happier with feeling! ->
+and now, quicker, felicitous, happier with beat!
+
+and now, faster, happy, happier with feeling! ->
+and nonce, faster, prosperous, happier with jumble!
+
+and now, faster, happy, happier with feeling! ->
+and time being, quicker, willing, happier with perfection!
+
+and now, faster, happy, happier with feeling! ->
+and now, faster, fortunate, happier with lend!
+
+and now, faster, happy, happier with feeling! ->
+and now, faster, blessed, happier with feel!
+
+and now, faster, happy, happier with feeling! ->
+and now, faster, blissful, happier with separation!
+
+and now, faster, happy, happier with feeling! ->
+and tonight, faster, bright, happier with incarnate!
+
+and now, faster, happy, happier with feeling! ->
+and date, quicker, blessed, happier with stagnate!
+
+and now, faster, happy, happier with feeling! ->
+and present moment, quicker, felicitous, happier with compare!
+
+and now, faster, happy, happier with feeling! ->
+and now, quicker, laughing(a), happier with consist!
+
+and now, faster, happy, happier with feeling! ->
+and now, quicker, fortunate, happier with continue!
+
+and now, faster, happy, happier with feeling! ->
+and now, faster, golden, happier with unity!
+
+and now, faster, happy, happier with feeling! ->
+and date, quicker, riant, happier with tingle!
+
+and now, faster, happy, happier with feeling! ->
+and now, quicker, blessed, happier with relationship!
+
+and now, faster, happy, happier with feeling! ->
+and today, quicker, golden, happier with connect!
+
+and now, faster, happy, happier with feeling! ->
+and tonight, faster, willing, happier with disorder!
+
+quit ->
+go out
+
+morphed_token=morphy(clean_token,'verb') ->
+lifehack growth= morphy( etiolate soil,' verb')
+
+        if morphed_token!=None: ->
+if proof vagabond!= Sunup:
+
+                if morphed_token in wordnet.V: ->
+if coarsen dollar sign in MRD. V:
+
+                        results+=relfn(wordnet.V[morphed_token].synsets()) ->
+result+= relfn( electronic dictionary. V[ Islamize head]. threescore())
+
+        and now, faster, happy, happier with feeling! ->
+and today, allegretto, blessed, riant with wind!
+
+[A ->
+[ A
+
+and now, faster, happy, happier with feeling! ->
+and moment, imperviable, blessed, fortunate with owe!
+
+quit ->
+rush away
+
+and now, faster, happy, happier with feeling! ->
+and moment, quick, felicitous, golden with action!
+
+and now, faster, happy, happier with feeling! ->
+and nonce, faithful, felicitous, willing with impendence!
+
+and now, faster, happy, happier with feeling! ->
+and time being, alacritous, blissful, halcyon with flawlessness!
+
+and now, faster, happy, happier with feeling! ->
+and today, smart, blessed, laughing(a) with kalemia!
+
+and now, faster, happy, happier with feeling! ->
+and now, express, fortunate, blessed with need!
+
+and now, faster, happy, happier with feeling! ->
+and now, alacritous, fortunate, golden with perfection!
+
+and now, faster, happy, happier with feeling! ->
+and tonight, rapid, blessed, bright with stand!
+
+and now, faster, happy, happier with feeling! ->
+and now, fixed, bright, bright with rise!
+
+and now, faster, happy, happier with feeling! ->
+and now, smooth, felicitous, bright with pick up!
+
+and now, faster, happy, happier with feeling! ->
+and today, rapid, riant, fortunate with integrity!
+
+and now, faster, happy, happier with feeling! ->
+and now, instantaneous, blessed, halcyon with owe!
+
+and now, faster, happy, happier with feeling! ->
+and date, fixed, blessed, willing with misperceive!
+
+and now, faster, happy, happier with feeling! ->
+and immediately, immediate, golden, felicitous with imperfection!
+
+and now, faster, happy, happier with feeling! ->
+and date, speedy, blessed, blissful with answer!
+
+and now, faster, happy, happier with feeling! ->
+and now, fast-paced, willing, fortunate with tone!
+
+and now, faster, happy, happier with feeling! ->
+and now, causative, fortunate, laughing(a) with death!
+
+and now, faster, happy, happier with feeling! ->
+and date, accelerated, blissful, halcyon with conflict!
+
+and now, faster, happy, happier with feeling! ->
+and now, prompt, felicitous, fortunate with obligation!
+
+and now, faster, happy, happier with feeling! ->
+and nowadays, allegretto, halcyon, felicitous with omnipotence!
+
+and now, faster, happy, happier with feeling! ->
+and time being, hurried, bright, blessed with perceptual constancy!
+
+and now, faster, happy, happier with feeling! ->
+and now, winged, bright, blessed with miasma!
+
+and now, faster, happy, happier with feeling! ->
+and now, vivace, felicitous, prosperous with think of!
+
+and now, faster, happy, happier with feeling! ->
+and today, windy, laughing(a), blessed with remain!
+
+and now, faster, happy, happier with feeling! ->
+and now, express, fortunate, felicitous with neotony!
+
+quit ->
+hightail it
+
+and now, faster, happy, happier with feeling! ->
+and tonight, double-quick, prosperous, willing with gather!
+
+and now, faster, happy, happier with feeling! ->
+and nonce, fast-paced, willing, riant with listen!
+
+and now, faster, happy, happier with feeling! ->
+and moment, faster, blessed, fortunate with loom!
+
+and now, faster, happy, happier with feeling! ->
+and here and now, allegro, willing, bright with hurt!
+
+and now, faster, happy, happier with feeling! ->
+and now, imperviable, bright, golden with imperfectness!
+
+and now, faster, happy, happier with feeling! ->
+and now, smooth, halcyon, bright with look!
+
+and now, faster, happy, happier with feeling! ->
+and now, immoral, felicitous, bright with hit!
+
+and now, faster, happy, happier with feeling! ->
+and nowadays, hurried, blissful, felicitous with polyvalence!
+
+and now, faster, happy, happier with feeling! ->
+and present moment, alacritous, fortunate, riant with scour!
+
+and now, faster, happy, happier with feeling! ->
+and today, fast-paced, riant, willing with somaesthesia!
+
+and now, faster, happy, happier with feeling! ->
+and date, immoral, blessed, willing with angle!
+
+and now, faster, happy, happier with feeling! ->
+and today, smooth, willing, felicitous with balance!
+
+and now, faster, happy, happier with feeling! ->
+and now, meteoric, bright, bright with status!
+
+and now, faster, happy, happier with feeling! ->
+and now, alacritous, willing, laughing(a) with relationship!
+
+[A ->
+[ A
+
+and now, faster, happy, happier with feeling! ->
+and nowadays, fast-paced, fortunate, golden with plurality!
+
+and now, faster, happy, happier with feeling! ->
+and now, prompt, fortunate, willing with work!
+
+and now, faster, happy, happier with feeling! ->
+and date, hurried, blissful, felicitous with ne plus ultra!
+
+quit ->
+hightail
+
+and now, once more, with feeling! ->
+and now, once Arthur Neville Chamberlain, with account!
+
+        # find synonyms and similar synsets ->
+# luck into function word and correspondent field
+
+and now, once more, with feeling! ->
+and date, once novelist, with stand!
+
+and now, once more, with feeling! ->
+and today, once Hecht, with fall upon!
+
+and now, once more, with feeling! ->
+and tonight, once Merton, with regard as!
+
+and now, once more, with feeling! ->
+and today, erst Burgess, with status!
+
+and now, once more, with feeling! ->
+and time being, once Bolivar, with motif!
+
+and now, once more, with feeling! ->
+and now, erstwhile Haley, with dependency!
+
+and now, once more, with feeling! ->
+and today, one time Kerensky, with stagnate!
+
+and now, once more, with feeling! ->
+and now, erst General Charles de Gaulle, with leap out!
+
+and now, once more, with feeling! ->
+and tonight, once William Gladstone, with program!
+
+and now, once more, with feeling! ->
+and nonce, at one time Shute, with make!
+
+and now, once more, with feeling! ->
+and date, once Bellow, with relationship!
+
+quit ->
+come away
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+jump morph at trail from intellection to plough. I aggress to be healthy at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+sputter desirability at edge up from conventionalize to whine. I swallow to be skilled at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+telecommunicate transaminate at stir from disturb to beat. I guard to be handicap at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+opacify sainted at ride from give to run. I take time by the forelock to be infidelity at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+touch retard at dribble from coarsen to spread. I evade to be uncloudedness at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+go thrombose at angle from urbanize to surpass. I cannibalize to be perviousness at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+isomerise suspend at bring forward from impact to spirt. I reciprocate to be article at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+capture solid at transport from evaporate to whoosh. I in use to be woodsiness at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+industrialize invalidate at work from transitivise to scrape. I hit to be relativity at this.
+
+get better at pushing from thinking to doing. I used to be good at this. ->
+effeminize polarise at fluctuate from shake to fall. I offer to be inhumaneness at this.
+
+oh, you really have to separate what you think of someone from what you think of their work, don't you? ->
+oh, you in truth celebrant to turn what you interchange of congener from what you deactivate of their splay, Surinam River' t you?
+
+but someone's brilliance (or lack of it) is precisely what makes them attractive. ->
+only anaerobe' s iridescence( or want of it) is just what blind them enthralling.
+
+to you, robert. ->
+to you, Henry M. Robert.
+
+[A ->
+[ A
+
+beuys as an ultimately self-reliant sort of man.  he didn't need elaborate sculptural contrivances, he relies of the strength of direct gestures.  ->
+beuys as an finally preserver- dependent rester of ethnic group. he didn' t gravitate validate shapely stemmer, he believe in of the persuasiveness of recreate hint.
+
+quit ->
+drop out
+
+drop out ->
+exasperate out
+
+:q ->
+: q
+
+quit ->
+walk out
+
+experimental biology.   ->
+empiric aerobiosis.
+
+experimental biology.   ->
+empirical batch.
+
+Richard Artswager.  table with pink tablecloth 1964.  not clean.  just real fucking tasteful.  nice and fucking taste real fucking tastefully organized unassailable fucking concept.  ->
+Richard Artswager. fair with portulaca place mat 1964. not recombine. conscionable bawbee hank panky elegant. Perm and tread typecast ducat tread tastefully schedule incontestable defloration suggestion.
+
+Richard Artswager.  table with pink tablecloth 1964.  not clean.  just real fucking tasteful.  nice and fucking taste real fucking tastefully organized unassailable fucking concept.  ->
+Richard Artswager. lawn furniture with splat tray cloth 1964. not diversify. righteous objective know unostentatious. Memphis and cover distinction half crown unmitigated tastefully catenate inviolable unmitigated burden.
+
+Origin of the world picture machine.  ->
+Origin of the doomed fancy suspect.
+
+My personal history is of interest in so far as I have attempted to use my life and person as tools.  ->
+My own(a) classicalism is of platoon in so ETA as I boomer activate to title my mid-December and catalyst as creature.
+
+ ->
+
+
+My personal history is of interest in so far as I have attempted to use my life and person as tools.  ->
+My lead story data file is of repellent in so Jayshullah as I Amerindian exert to visitation right my air alert and conspecific as bottom.
+
+ ->
+
+
+My personal history is of interest in so far as I have attempted to use my life and person as tools.  ->
+My private unconscious process is of profit sharing in so outlying(a) as I spot condescend to work my mid-April and conspecific as hot-work.
+
+ ->
+
+
+My personal history is of interest in so far as I have attempted to use my life and person as tools.  ->
+My personalized place is of strike a chord in so Army of the Righteous as I sex symbol partner to condescend my witness and relict as air-cool.
+
+ ->
+
+
+My personal history is of interest in so far as I have attempted to use my life and person as tools.  ->
+My subjective time immemorial is of sector in so ELN as I groaner behave to dispatch my Bronze Age and recombinant as tool.
+
+ ->
+
+
+My personal history is of interest in so far as I have attempted to use my life and person as tools.  ->
+My private episteme is of reward in so long as I totemist persist in to use my roundhead and polyploid as constitutionalize.
+
+ ->
+
+
+The object is intended as a transmitter radiating ideas from a deep background in time through an accretion of layers of meaning and biography functioning like a Faraday Cage in which the power is retained through a kind of grid.  The object transmits while the text demonstrates. ->
+The measure is intentional as a propagandist feel universe of discourse from a deep glimpse in time through an heirloom of skeletal structure of postulation and case history development style a William Hyde Wollaston Scriabin in which the foreign country is harbour through a gracious of enamelware. The stagnate ship ephemera the Erewhon fly.
+
+well Vollmann's not doing strongly autobiographical work any more, but he certainly did before so maybe you need to work through that stuff first and then get on to other researched, intellectual/academic things. ->
+cabin Vollmann' s not err strongly autobiographical settle some(a) Horace Walpole, merely he sure enough comb earlier so mayhap you hopefulness to figure out finished that film gearset and then untune on to different experiment, abator/ scholarly material possession.
+
+ ->
+
+
+well Vollmann's not doing strongly autobiographical work any more, but he certainly did before so maybe you need to work through that stuff first and then get on to other researched, intellectual/academic things. ->
+elevator shaft Vollmann' s not create from raw stuff powerfully autobiographical heat some(a) Thomas Nelson Page, but he certainly ascend in front so perchance you brutalisation to remain finished that romanticism twelfth and end drop on to past explore, domestic partner/ Elizabeth Peabody trust.
+
+ ->
+
+
+dog with stuffed raccoon ->
+bearing wall with line lambskin
+
+ ->
+
+
+dog with stuffed raccoon ->
+bookend with ammonify fox
+
+dog with stuffed raccoon ->
+hanger with silt Bassariscus astutus
+
+dog with stuffed raccoon ->
+gallows bird with drive raccoon
+
+dog with stuffed raccoon ->
+bar with picnic squirrel
+
+dog with stuffed raccoon ->
+liver sausage with complete miner's cat
+
+dog with stuffed raccoon ->
+tailstock with flick muskrat
+
+dog with stuffed raccoon ->
+stocker with prime muskrat fur
+
+dog with stuffed raccoon ->
+detent with farce bearskin
+
+dog with stuffed raccoon ->
+chorizo with ammonify miner's cat
+
+dog with stuffed raccoon ->
+pawl with eat out chinchilla
+
+dog with stuffed raccoon ->
+domestic dog with poke at muskrat fur
+
+dog with stuffed raccoon ->
+bearing with full chinchilla
+
+dog with stuffed raccoon ->
+jackal with impregnate seal
+
+dog with stuffed raccoon ->
+bag with dine out coon bear
+
+dog with stuffed raccoon ->
+head with populate lambskin
+
+dog with stuffed raccoon ->
+baluster with breakfast otter
+
+vdog with stuffed raccoon ->
+vdog with imbue beaver
+
+dog with stuffed raccoon ->
+cow with pad giant panda
+
+dog with stuffed raccoon ->
+cow with ink ring-tailed cat
+
+dog with stuffed raccoon ->
+back with poke at seal
+
+dog with stuffed raccoon ->
+pier with heap panda
+
+dog with stuffed raccoon ->
+old bag with stuff bassarisk
+
+dog with stuffed raccoon ->
+rack with feast beaver
+
+young robert rauschenberg as a sailer ->
+Sir John Suckling Henry Martyn Robert rauschenberg as a sailer
+
+major in the kitchen ->
+Armand Jean du Plessis in the dining-room
+
+major in the kitchen ->
+military science in the living room
+
+major in the kitchen ->
+de Valera in the back room
+
+major in the kitchen ->
+Fox in the walk-in
+
+major in the kitchen ->
+allometry in the locker room
+
+quit ->
+ride away
+
+representation ->
+noumenon
+
+representation ->
+operation
+
+quit ->
+decamp
+
+ ->
+
+
+quit ->
+pop off
+
+quit ->
+rush away
+
+quit ->
+sneak away
+
+select 1 from characters ->
+take 1 from Jack Frost
+
+quit ->
+tarry
+
+seelct from props ->
+seelct from homage
+Human blood bag.
+
+Human blood bag.
+
+
+[A ->
+[ A
+
+quit ->
+desert
+we rode on horses made of sticks.
+
+Clowns noses.
+
+A pile of fingernails.
+
+Red Cross Human Blood Box.
+
+Large handmade sign reading "man in search of shelter".
+
+A wig made of doggy hair.
+
+A pile of fingernails.
+
+Sign reading "man in need of help".
+
+Human blood bag.
+
+A sailboat.
+
+rocking horse.
+
+Large handmade sign reading "man in search of shelter".
+
+Sign reading "man in need of help".
+
+
+
+
+
+A wig made of doggy hair.
+
+Clowns noses.
+
+Human blood bag.
+
+Larval maggoty Art Pupae.
+
+White plastic horse.  (rocking horse?)
+
+White plastic horse.  (rocking horse?)
+
+rocking horse.
+
+rocking horse.
+
+Clowns noses.
+
+Red Cross Human Blood Box.
+
+Lights Out List.
+
+A sailboat.
+
+The seashell radio.
+
+White plastic horse.  (rocking horse?)
+
+A sailboat.
+
+Lights Out List.
+
+A pile of fingernails.
+
+A wig made of doggy hair.
+
+Red Cross Human Blood Box.
+
+Top of roof. "send help please".
+
+Large handmade sign reading "man in search of shelter".
+
+Larval maggoty Art Pupae.
+
+
+
+Red Cross Human Blood Box.
+
+A sailboat.
+
+A pile of fingernails.
+
+rocking horse.
+
+Little bits of foil/bright shiny ribbons.
+
+A sailboat.
+
+Little bits of foil/bright shiny ribbons.
+
+rocking horse.
+
+Clowns noses.
+
+Sign reading "man in need of help".
+
+The seashell radio.
+
+Red Cross Human Blood Box.
+
+The seashell radio.
+
+Clowns noses.
+
+
+
+White plastic horse.  (rocking horse?)
+
+An important pocket knife.
+
+Clowns noses.
+
+Stomped geometries.
+
+Sign reading "man in need of help".
+
+rocking horse.
+
+White plastic horse.  (rocking horse?)
+
+Stomped geometries.
+
+Red Cross Human Blood Box.
+
+Large handmade sign reading "man in search of shelter".
+
+Red Cross Human Blood Box.
+
+Raggedy Andy.
+
+White plastic horse.  (rocking horse?)
+
+Raggedy Andy.
+
+White plastic horse.  (rocking horse?)
+
+we rode on horses made of sticks.
+
+Little bits of foil/bright shiny ribbons.
+
+Little bits of foil/bright shiny ribbons.
+
+Human blood bag.
+
+Top of roof. "send help please".
+
+White plastic horse.  (rocking horse?)
+
+A pile of fingernails.
+
+The seashell radio.
+
+Bandaging materials for a wound.
+
+we rode on horses made of sticks.
+
+A pile of fingernails.
+
+A wig made of doggy hair.
+
+Little bits of foil/bright shiny ribbons.
+
+Bandaging materials for a wound.
+
+White plastic horse.  (rocking horse?)
+
+An important pocket knife.
+
+Sign reading "man in need of help".
+
+rocking horse.
+
+Larval maggoty Art Pupae.
+
+Human blood bag.
+
+
+
+Clowns noses.
+
+rocking horse.
+
+White plastic horse.  (rocking horse?)
+
+Raggedy Andy.
+
+Clowns noses.
+
+Bandaging materials for a wound.
+
+The seashell radio.
+
+A wig made of doggy hair.
+
+Red Cross Human Blood Box.
+
+
+
+Bandaging materials for a wound.
+
+An important pocket knife.
+
+Lights Out List.
+
+A wig made of doggy hair.
+
+Clowns noses.
+
+rocking horse.
+
+Larval maggoty Art Pupae.
+
+Red Cross Human Blood Box.
+
+A sailboat.
+
+Raggedy Andy.
+
+Large handmade sign reading "man in search of shelter".
+
+Lights Out List.
+
+An important pocket knife.
+
+rocking horse.
+
+Little bits of foil/bright shiny ribbons.
+
+A pile of fingernails.
+
+Little bits of foil/bright shiny ribbons.
+
+Human blood bag.
+
+Lights Out List.
+
+we rode on horses made of sticks.
+
+Larval maggoty Art Pupae.
+
+A pile of fingernails.
+
+we rode on horses made of sticks.
+
+Stomped geometries.
+
+Sign reading "man in need of help".
+
+Larval maggoty Art Pupae.
+
+White plastic horse.  (rocking horse?)
+
+The seashell radio.
+
+White plastic horse.  (rocking horse?)
+
+An important pocket knife.
+
+A sailboat.
+
+A wig made of doggy hair.
+
+The seashell radio.
+
+Larval maggoty Art Pupae.
+
+The seashell radio.
+
+Raggedy Andy.
+
+Top of roof. "send help please".
+
+Lights Out List.
+
+Larval maggoty Art Pupae.
+
+Bandaging materials for a wound.
+
+The seashell radio.
+
+A pile of fingernails.
+
+Top of roof. "send help please".
+
+Large handmade sign reading "man in search of shelter".
+
+A sailboat.
+
+Large handmade sign reading "man in search of shelter".
+
+Little bits of foil/bright shiny ribbons.
+
+Sign reading "man in need of help".
+
+Large handmade sign reading "man in search of shelter".
+
+Red Cross Human Blood Box.
+
+A wig made of doggy hair.
+
+A pile of fingernails.
+
+Top of roof. "send help please".
+
+Larval maggoty Art Pupae.
+
+A sailboat.
+
+Bandaging materials for a wound.
+
+Red Cross Human Blood Box.
+
+we rode on horses made of sticks.
+
+we rode on horses made of sticks.
+
+Bandaging materials for a wound.
+
+Human blood bag.
+
+White plastic horse.  (rocking horse?)
+
+
+
+Sign reading "man in need of help".
+
+Large handmade sign reading "man in search of shelter".
+
+Larval maggoty Art Pupae.
+
+Lights Out List.
+
+Red Cross Human Blood Box.
+
+Top of roof. "send help please".
+
+Raggedy Andy.
+
+Lights Out List.
+
+A sailboat.
+
+rocking horse.
+
+Large handmade sign reading "man in search of shelter".
+
+Clowns noses.
+
+Red Cross Human Blood Box.
+
+Lights Out List.
+
+Sign reading "man in need of help".
+
+Sign reading "man in need of help".
+
+Human blood bag.
+
+Red Cross Human Blood Box.
+
+Lights Out List.
+
+An important pocket knife.
+
+Clowns noses.
+
+
+
+Red Cross Human Blood Box.
+
+A wig made of doggy hair.
+
+Little bits of foil/bright shiny ribbons.
+
+we rode on horses made of sticks.
+
+Clowns noses.
+
+A pile of fingernails.
+
+The seashell radio.
+
+Sign reading "man in need of help".
+
+A pile of fingernails.
+
+Human blood bag.
+
+
+
+A pile of fingernails.
+
+Human blood bag.
+
+Sign reading "man in need of help".
+
+Raggedy Andy.
+
+Bandaging materials for a wound.
+
+rocking horse.
+
+A sailboat.
+
+An important pocket knife.
+
+Little bits of foil/bright shiny ribbons.
+
+Stomped geometries.
+
+
+
+White plastic horse.  (rocking horse?)
+
+Sign reading "man in need of help".
+
+An important pocket knife.
+
+
+
+Red Cross Human Blood Box.
+
+White plastic horse.  (rocking horse?)
+
+White plastic horse.  (rocking horse?)
+
+Sign reading "man in need of help".
+
+Red Cross Human Blood Box.
+
+Larval maggoty Art Pupae.
+
+White plastic horse.  (rocking horse?)
+
+
+
+
+
+A sailboat.
+
+Sign reading "man in need of help".
+
+we rode on horses made of sticks.
+
+A wig made of doggy hair.
+
+The seashell radio.
+
+A pile of fingernails.
+
+Human blood bag.
+
+A sailboat.
+
+Stomped geometries.
+
+
+
+Red Cross Human Blood Box.
+
+A wig made of doggy hair.
+
+Bandaging materials for a wound.
+
+
+
+Sign reading "man in need of help".
+
+An important pocket knife.
+
+
+
+Lights Out List.
+
+Clowns noses.
+
+rocking horse.
+
+Larval maggoty Art Pupae.
+
+Clowns noses.
+
+Clowns noses.
+
+A wig made of doggy hair.
+
+Raggedy Andy.
+
+The seashell radio.
+
+Human blood bag.
+
+A pile of fingernails.
+
+Clowns noses.
+
+rocking horse.
+
+we rode on horses made of sticks.
+
+we rode on horses made of sticks.
+
+The seashell radio.
+
+White plastic horse.  (rocking horse?)
+
+Top of roof. "send help please".
+
+Bandaging materials for a wound.
+
+Raggedy Andy.
+
+Clowns noses.
+
+rocking horse.
+
+we rode on horses made of sticks.
+
+Raggedy Andy.
+
+Larval maggoty Art Pupae.
+
+An important pocket knife.
+
+Human blood bag.
+
+A pile of fingernails.
+
+Larval maggoty Art Pupae.
+
+Large handmade sign reading "man in search of shelter".
+
+Red Cross Human Blood Box.
+
+Red Cross Human Blood Box.
+
+A wig made of doggy hair.
+
+
+
+A sailboat.
+
+rocking horse.
+
+Clowns noses.
+
+Clowns noses.
+
+Lights Out List.
+
+Sign reading "man in need of help".
+
+A pile of fingernails.
+
+rocking horse.
+
+we rode on horses made of sticks.
+
+A pile of fingernails.
+
+White plastic horse.  (rocking horse?)
+
+Sign reading "man in need of help".
+
+Top of roof. "send help please".
+
+
+
+A pile of fingernails.
+
+Bandaging materials for a wound.
+
+Sign reading "man in need of help".
+
+Raggedy Andy.
+
+we rode on horses made of sticks.
+
+Lights Out List.
+
+Lights Out List.
+
+Clowns noses.
+
+Top of roof. "send help please".
+
+rocking horse.
+
+Lights Out List.
+
+An important pocket knife.
+
+Sign reading "man in need of help".
+
+rocking horse.
+
+A sailboat.
+
+A pile of fingernails.
+
+Human blood bag.
+
+Human blood bag.
+
+An important pocket knife.
+
+White plastic horse.  (rocking horse?)
+
+Stomped geometries.
+
+A sailboat.
+
+Stomped geometries.
+
+Stomped geometries.
+
+
+
+An important pocket knife.
+
+Lights Out List.
+
+Raggedy Andy.
+
+Top of roof. "send help please".
+
+Lights Out List.
+
+we rode on horses made of sticks.
+
+Stomped geometries.
+
+An important pocket knife.
+
+we rode on horses made of sticks.
+
+An important pocket knife.
+
+Bandaging materials for a wound.
+
+Clowns noses.
+
+we rode on horses made of sticks.
+
+A pile of fingernails.
+
+A wig made of doggy hair.
+
+A wig made of doggy hair.
+
+Human blood bag.
+
+White plastic horse.  (rocking horse?)
+
+Lights Out List.
+
+Lights Out List.
+
+Human blood bag.
+
+Lights Out List.
+
+Top of roof. "send help please".
+
+A wig made of doggy hair.
+
+
+
+Raggedy Andy.
+
+A wig made of doggy hair.
+
+An important pocket knife.
+
+Bandaging materials for a wound.
+
+Human blood bag.
+
+Clowns noses.
+
+The seashell radio.
+
+Top of roof. "send help please".
+
+White plastic horse.  (rocking horse?)
+
+rocking horse.
+
+White plastic horse.  (rocking horse?)
+
+rocking horse.
+
+Red Cross Human Blood Box.
+
+Human blood bag.
+
+Red Cross Human Blood Box.
+
+Sign reading "man in need of help".
+
+The seashell radio.
+
+Red Cross Human Blood Box.
+
+The seashell radio.
+
+Little bits of foil/bright shiny ribbons.
+
+Lights Out List.
+
+Sign reading "man in need of help".
+
+rocking horse.
+
+Sign reading "man in need of help".
+
+Lights Out List.
+
+Raggedy Andy.
+
+Large handmade sign reading "man in search of shelter".
+
+we rode on horses made of sticks.
+
+Red Cross Human Blood Box.
+
+Raggedy Andy.
+
+Large handmade sign reading "man in search of shelter".
+
+we rode on horses made of sticks.
+
+Little bits of foil/bright shiny ribbons.
+
+Lights Out List.
+
+Larval maggoty Art Pupae.
+
+Little bits of foil/bright shiny ribbons.
+
+Lights Out List.
+
+Bandaging materials for a wound.
+
+A sailboat.
+
+Bandaging materials for a wound.
+
+Human blood bag.
+
+The seashell radio.
+
+Raggedy Andy.
+
+An important pocket knife.
+
+Red Cross Human Blood Box.
+
+Human blood bag.
+
+The seashell radio.
+
+A pile of fingernails.
+
+Sign reading "man in need of help".
+
+Larval maggoty Art Pupae.
+
+A sailboat.
+
+Sign reading "man in need of help".
+
+we rode on horses made of sticks.
+
+White plastic horse.  (rocking horse?)
+
+
+
+Stomped geometries.
+
+rocking horse.
+
+Larval maggoty Art Pupae.
+
+Clowns noses.
+
+
+
+Lights Out List.
+
+Little bits of foil/bright shiny ribbons.
+
+Stomped geometries.
+
+Little bits of foil/bright shiny ribbons.
+
+Clowns noses.
+
+A sailboat.
+
+
+
+Raggedy Andy.
+
+A pile of fingernails.
+
+Sign reading "man in need of help".
+
+A wig made of doggy hair.
+
+Clowns noses.
+
+Raggedy Andy.
+
+A pile of fingernails.
+
+A pile of fingernails.
+
+A pile of fingernails.
+
+The seashell radio.
+
+Bandaging materials for a wound.
+
+Large handmade sign reading "man in search of shelter".
+
+Little bits of foil/bright shiny ribbons.
+
+Lights Out List.
+
+
+
+Lights Out List.
+
+A sailboat.
+
+Stomped geometries.
+
+Clowns noses.
+
+The seashell radio.
+
+Clowns noses.
+
+Human blood bag.
+
+A pile of fingernails.
+
+Stomped geometries.
+
+Red Cross Human Blood Box.
+
+Raggedy Andy.
+
+Human blood bag.
+
+A pile of fingernails.
+
+Bandaging materials for a wound.
+
+A sailboat.
+
+The seashell radio.
+
+Large handmade sign reading "man in search of shelter".
+
+Lights Out List.
+
+Human blood bag.
+
+White plastic horse.  (rocking horse?)
+
+Clowns noses.
+
+Larval maggoty Art Pupae.
+
+A pile of fingernails.
+
+Top of roof. "send help please".
+
+Bandaging materials for a wound.
+
+rocking horse.
+
+Clowns noses.
+
+The seashell radio.
+
+Bandaging materials for a wound.
+
+An important pocket knife.
+
+The seashell radio.
+
+Lights Out List.
+
+Human blood bag.
+
+Top of roof. "send help please".
+
+White plastic horse.  (rocking horse?)
+
+Stomped geometries.
+
+White plastic horse.  (rocking horse?)
+
+A sailboat.
+
+Stomped geometries.
+
+Lights Out List.
+
+we rode on horses made of sticks.
+
+Sign reading "man in need of help".
+
+Top of roof. "send help please".
+
+Human blood bag.
+
+Stomped geometries.
+
+
+
+
+
+Red Cross Human Blood Box.
+
+The seashell radio.
+
+Human blood bag.
+
+Bandaging materials for a wound.
+
+A sailboat.
+
+we rode on horses made of sticks.
+
+Larval maggoty Art Pupae.
+
+Stomped geometries.
+
+Human blood bag.
+
+A wig made of doggy hair.
+
+Little bits of foil/bright shiny ribbons.
+
+Red Cross Human Blood Box.
+
+Clowns noses.
+
+Sign reading "man in need of help".
+
+Larval maggoty Art Pupae.
+
+Top of roof. "send help please".
+
+Sign reading "man in need of help".
+
+
+
+Larval maggoty Art Pupae.
+
+Stomped geometries.
+
+A sailboat.
+
+A sailboat.
+
+Raggedy Andy.
+
+A sailboat.
+
+Larval maggoty Art Pupae.
+
+Clowns noses.
+
+Clowns noses.
+
+Red Cross Human Blood Box.
+
+White plastic horse.  (rocking horse?)
+
+Raggedy Andy.
+
+The seashell radio.
+
+Raggedy Andy.
+
+Raggedy Andy.
+
+A sailboat.
+
+Large handmade sign reading "man in search of shelter".
+
+
+
+Lights Out List.
+
+Clowns noses.
+
+Larval maggoty Art Pupae.
+
+Larval maggoty Art Pupae.
+
+A wig made of doggy hair.
+
+Bandaging materials for a wound.
+
+Top of roof. "send help please".
+
+Stomped geometries.
+
+Red Cross Human Blood Box.
+
+
+
+Bandaging materials for a wound.
+
+White plastic horse.  (rocking horse?)
+
+Lights Out List.
+
+Larval maggoty Art Pupae.
+
+Clowns noses.
+
+A wig made of doggy hair.
+
+Large handmade sign reading "man in search of shelter".
+
+The seashell radio.
+
+White plastic horse.  (rocking horse?)
+
+An important pocket knife.
+
+A wig made of doggy hair.
+
+A wig made of doggy hair.
+
+Stomped geometries.
+
+
+
+Little bits of foil/bright shiny ribbons.
+
+Sign reading "man in need of help".
+
+A sailboat.
+
+Large handmade sign reading "man in search of shelter".
+
+White plastic horse.  (rocking horse?)
+
+Large handmade sign reading "man in search of shelter".
+
+Red Cross Human Blood Box.
+
+The seashell radio.
+
+White plastic horse.  (rocking horse?)
+
+Clowns noses.
+
+
+
+Little bits of foil/bright shiny ribbons.
+
+Red Cross Human Blood Box.
+
+White plastic horse.  (rocking horse?)
+
+
+
+
+
+
+
+Raggedy Andy.
+
+
+
+Little bits of foil/bright shiny ribbons.
+
+we rode on horses made of sticks.
+
+An important pocket knife.
+
+Stomped geometries.
+
+Bandaging materials for a wound.
+
+An important pocket knife.
+
+The seashell radio.
+
+rocking horse.
+
+A wig made of doggy hair.
+
+Red Cross Human Blood Box.
+
+we rode on horses made of sticks.
+
+Sign reading "man in need of help".
+
+we rode on horses made of sticks.
+
+Stomped geometries.
+
+Clowns noses.
+
+Red Cross Human Blood Box.
+
+Clowns noses.
+
+we rode on horses made of sticks.
+
+An important pocket knife.
+
+White plastic horse.  (rocking horse?)
+
+Larval maggoty Art Pupae.
+
+Top of roof. "send help please".
+
+A sailboat.
+
+A sailboat.
+
+An important pocket knife.
+
+A wig made of doggy hair.
+
+rocking horse.
+
+
+
+Large handmade sign reading "man in search of shelter".
+
+A wig made of doggy hair.
+
+rocking horse.
+
+Stomped geometries.
+
+Lights Out List.
+
+Human blood bag.
+
+The seashell radio.
+
+
+
+Top of roof. "send help please".
+
+Lights Out List.
+
+The seashell radio.
+
+A wig made of doggy hair.
+
+A sailboat.
+
+Human blood bag.
+
+A pile of fingernails.
+
+Larval maggoty Art Pupae.
+
+Stomped geometries.
+
+we rode on horses made of sticks.
+
+Red Cross Human Blood Box.
+
+The seashell radio.
+
+we rode on horses made of sticks.
+
+The seashell radio.
+
+Large handmade sign reading "man in search of shelter".
+
+Lights Out List.
+
+An important pocket knife.
+
+The seashell radio.
+
+A sailboat.
+
+The seashell radio.
+
+Raggedy Andy.
+
+Human blood bag.
+
+A sailboat.
+
+Human blood bag.
+
+we rode on horses made of sticks.
+
+Red Cross Human Blood Box.
+
+A pile of fingernails.
+
+Red Cross Human Blood Box.
+
+A sailboat.
+
+Bandaging materials for a wound.
+
+A pile of fingernails.
+
+rocking horse.
+
+we rode on horses made of sticks.
+
+Top of roof. "send help please".
+
+An important pocket knife.
+
+A pile of fingernails.
+
+Larval maggoty Art Pupae.
+
+Raggedy Andy.
+
+we rode on horses made of sticks.
+
+An important pocket knife.
+
+A sailboat.
+
+rocking horse.
+
+A pile of fingernails.
+
+Stomped geometries.
+
+Large handmade sign reading "man in search of shelter".
+
+A sailboat.
+
+A wig made of doggy hair.
+
+Lights Out List.
+
+The seashell radio.
+
+White plastic horse.  (rocking horse?)
+
+The seashell radio.
+
+Larval maggoty Art Pupae.
+
+Sign reading "man in need of help".
+
+The seashell radio.
+
+Sign reading "man in need of help".
+
+A sailboat.
+
+Top of roof. "send help please".
+
+Red Cross Human Blood Box.
+
+A pile of fingernails.
+
+White plastic horse.  (rocking horse?)
+
+A wig made of doggy hair.
+
+Human blood bag.
+
+Sign reading "man in need of help".
+
+A pile of fingernails.
+
+An important pocket knife.
+
+Clowns noses.
+
+Top of roof. "send help please".
+
+Little bits of foil/bright shiny ribbons.
+
+Stomped geometries.
+
+Little bits of foil/bright shiny ribbons.
+
+Sign reading "man in need of help".
+
+Clowns noses.
+
+
+
+Sign reading "man in need of help".
+
+
+
+Sign reading "man in need of help".
+
+An important pocket knife.
+
+A pile of fingernails.
+
+Stomped geometries.
+
+
+
+Raggedy Andy.
+
+Human blood bag.
+
+Sign reading "man in need of help".
+
+Sign reading "man in need of help".
+
+Sign reading "man in need of help".
+
+Human blood bag.
+
+Large handmade sign reading "man in search of shelter".
+
+Top of roof. "send help please".
+
+A pile of fingernails.
+
+Red Cross Human Blood Box.
+
+A pile of fingernails.
+
+Stomped geometries.
+
+An important pocket knife.
+
+Raggedy Andy.
+
+The seashell radio.
+
+Stomped geometries.
+
+White plastic horse.  (rocking horse?)
+
+The seashell radio.
+
+
+
+Clowns noses.
+
+Large handmade sign reading "man in search of shelter".
+
+Raggedy Andy.
+
+we rode on horses made of sticks.
+
+Little bits of foil/bright shiny ribbons.
+
+The seashell radio.
+
+A sailboat.
+
+Large handmade sign reading "man in search of shelter".
+
+A wig made of doggy hair.
+
+Sign reading "man in need of help".
+
+The seashell radio.
+
+White plastic horse.  (rocking horse?)
+
+A wig made of doggy hair.
+
+
+
+Large handmade sign reading "man in search of shelter".
+
+Lights Out List.
+
+
+
+A wig made of doggy hair.
+
+Red Cross Human Blood Box.
+
+Top of roof. "send help please".
+
+A wig made of doggy hair.
+
+A sailboat.
+
+rocking horse.
+
+Raggedy Andy.
+
+An important pocket knife.
+
+rocking horse.
+
+Bandaging materials for a wound.
+
+Large handmade sign reading "man in search of shelter".
+
+Larval maggoty Art Pupae.
+
+The seashell radio.
+
+A pile of fingernails.
+
+Human blood bag.
+
+we rode on horses made of sticks.
+
+Bandaging materials for a wound.
+
+rocking horse.
+
+Lights Out List.
+
+An important pocket knife.
+
+Human blood bag.
+
+rocking horse.
+
+Larval maggoty Art Pupae.
+
+Human blood bag.
+
+Lights Out List.
+
+Red Cross Human Blood Box.
+
+rocking horse.
+
+Little bits of foil/bright shiny ribbons.
+
+Bandaging materials for a wound.
+
+Larval maggoty Art Pupae.
+
+A pile of fingernails.
+
+Larval maggoty Art Pupae.
+
+Large handmade sign reading "man in search of shelter".
+
+Large handmade sign reading "man in search of shelter".
+
+Larval maggoty Art Pupae.
+
+Lights Out List.
+
+Large handmade sign reading "man in search of shelter".
+
+Sign reading "man in need of help".
+
+White plastic horse.  (rocking horse?)
+
+Clowns noses.
+
+Top of roof. "send help please".
+
+
+
+Clowns noses.
+
+
+
+The seashell radio.
+
+Red Cross Human Blood Box.
+
+Larval maggoty Art Pupae.
+
+Little bits of foil/bright shiny ribbons.
+
+A pile of fingernails.
+
+A wig made of doggy hair.
+
+Little bits of foil/bright shiny ribbons.
+
+
+
+rocking horse.
+
+A pile of fingernails.
+
+A pile of fingernails.
+
+A wig made of doggy hair.
+
+Human blood bag.
+
+Lights Out List.
+
+Larval maggoty Art Pupae.
+
+Lights Out List.
+
+Larval maggoty Art Pupae.
+
+An important pocket knife.
+
+
+
+Lights Out List.
+
+Clowns noses.
+
+Raggedy Andy.
+
+Clowns noses.
+
+Clowns noses.
+
+The seashell radio.
+
+Stomped geometries.
+
+White plastic horse.  (rocking horse?)
+
+Raggedy Andy.
+
+Stomped geometries.
+
+
+
+Larval maggoty Art Pupae.
+
+we rode on horses made of sticks.
+
+Sign reading "man in need of help".
+
+A wig made of doggy hair.
+
+Clowns noses.
+
+Lights Out List.
+
+Larval maggoty Art Pupae.
+
+Little bits of foil/bright shiny ribbons.
+
+White plastic horse.  (rocking horse?)
+
+
+
+we rode on horses made of sticks.
+
+Larval maggoty Art Pupae.
+
+A wig made of doggy hair.
+
+Red Cross Human Blood Box.
+
+Raggedy Andy.
+
+White plastic horse.  (rocking horse?)
+
+we rode on horses made of sticks.
+
+A pile of fingernails.
+
+Bandaging materials for a wound.
+
+Human blood bag.
+
+A sailboat.
+
+Human blood bag.
+
+
+
+Red Cross Human Blood Box.
+
+Raggedy Andy.
+
+A wig made of doggy hair.
+
+Little bits of foil/bright shiny ribbons.
+
+Little bits of foil/bright shiny ribbons.
+
+Little bits of foil/bright shiny ribbons.
+
+Bandaging materials for a wound.
+
+Top of roof. "send help please".
+
+rocking horse.
+
+The seashell radio.
+
+
+
+Larval maggoty Art Pupae.
+
+The seashell radio.
+
+A sailboat.
+
+The seashell radio.
+
+Red Cross Human Blood Box.
+
+
+
+Sign reading "man in need of help".
+
+
+
+Red Cross Human Blood Box.
+
+
+
+Red Cross Human Blood Box.
+
+we rode on horses made of sticks.
+
+White plastic horse.  (rocking horse?)
+
+Top of roof. "send help please".
+
+we rode on horses made of sticks.
+
+Clowns noses.
+
+Red Cross Human Blood Box.
+
+Raggedy Andy.
+
+
+
+The seashell radio.
+
+Clowns noses.
+
+A sailboat.
+
+A pile of fingernails.
+
+Clowns noses.
+
+
+
+Little bits of foil/bright shiny ribbons.
+
+Clowns noses.
+
+Top of roof. "send help please".
+
+we rode on horses made of sticks.
+
+White plastic horse.  (rocking horse?)
+
+Red Cross Human Blood Box.
+
+Larval maggoty Art Pupae.
+
+we rode on horses made of sticks.
+
+A wig made of doggy hair.
+
+The seashell radio.
+
+Red Cross Human Blood Box.
+
+rocking horse.
+
+Human blood bag.
+
+Red Cross Human Blood Box.
+
+Little bits of foil/bright shiny ribbons.
+
+The seashell radio.
+
+Sign reading "man in need of help".
+
+Large handmade sign reading "man in search of shelter".
+
+The seashell radio.
+
+A sailboat.
+
+Clowns noses.
+
+An important pocket knife.
+
+A pile of fingernails.
+
+Raggedy Andy.
+
+Little bits of foil/bright shiny ribbons.
+
+Larval maggoty Art Pupae.
+
+Red Cross Human Blood Box.
+
+Raggedy Andy.
+
+Top of roof. "send help please".
+
+White plastic horse.  (rocking horse?)
+
+Stomped geometries.
+
+we rode on horses made of sticks.
+
+Sign reading "man in need of help".
+
+Bandaging materials for a wound.
+
+White plastic horse.  (rocking horse?)
+
+Human blood bag.
+
+Larval maggoty Art Pupae.
+
+Large handmade sign reading "man in search of shelter".
+
+Stomped geometries.
+
+White plastic horse.  (rocking horse?)
+
+A wig made of doggy hair.
+
+The seashell radio.
+
+Stomped geometries.
+
+Sign reading "man in need of help".
+
+Larval maggoty Art Pupae.
+
+Little bits of foil/bright shiny ribbons.
+
+Raggedy Andy.
+
+Lights Out List.
+
+White plastic horse.  (rocking horse?)
+
+Red Cross Human Blood Box.
+
+rocking horse.
+
+Lights Out List.
+
+The seashell radio.
+
+Lights Out List.
+
+The seashell radio.
+
+
+
+A wig made of doggy hair.
+
+Larval maggoty Art Pupae.
+
+Raggedy Andy.
+
+Bandaging materials for a wound.
+
+Top of roof. "send help please".
+
+Raggedy Andy.
+
+White plastic horse.  (rocking horse?)
+
+An important pocket knife.
+
+Raggedy Andy.
+
+Lights Out List.
+
+Sign reading "man in need of help".
+
+Stomped geometries.
+
+Little bits of foil/bright shiny ribbons.
+
+The seashell radio.
+
+Raggedy Andy.
+
+we rode on horses made of sticks.
+
+Little bits of foil/bright shiny ribbons.
+
+
+
+A wig made of doggy hair.
+
+A sailboat.
+
+rocking horse.
+
+rocking horse.
+
+Larval maggoty Art Pupae.
+
+A wig made of doggy hair.
+
+White plastic horse.  (rocking horse?)
+
+Bandaging materials for a wound.
+
+Raggedy Andy.
+
+Stomped geometries.
+
+The seashell radio.
+
+we rode on horses made of sticks.
+
+Bandaging materials for a wound.
+
+Large handmade sign reading "man in search of shelter".
+
+Larval maggoty Art Pupae.
+
+Sign reading "man in need of help".
+
+Little bits of foil/bright shiny ribbons.
+
+Sign reading "man in need of help".
+
+rocking horse.
+
+Lights Out List.
+
+Larval maggoty Art Pupae.
+
+Large handmade sign reading "man in search of shelter".
+
+Little bits of foil/bright shiny ribbons.
+
+
+
+rocking horse.
+
+Lights Out List.
+
+Raggedy Andy.
+
+Large handmade sign reading "man in search of shelter".
+
+A wig made of doggy hair.
+
+Little bits of foil/bright shiny ribbons.
+
+we rode on horses made of sticks.
+
+Raggedy Andy.
+
+Top of roof. "send help please".
+
+The seashell radio.
+
+Raggedy Andy.
+
+A sailboat.
+
+Lights Out List.
+
+Red Cross Human Blood Box.
+
+Red Cross Human Blood Box.
+
+The seashell radio.
+
+The seashell radio.
+
+Lights Out List.
+
+Clowns noses.
+
+A pile of fingernails.
+
+Large handmade sign reading "man in search of shelter".
+
+rocking horse.
+
+Large handmade sign reading "man in search of shelter".
+
+Lights Out List.
+
+A pile of fingernails.
+
+Clowns noses.
+
+Little bits of foil/bright shiny ribbons.
+
+Bandaging materials for a wound.
+
+A wig made of doggy hair.
+
+
+
+Top of roof. "send help please".
+
+
+
+Top of roof. "send help please".
+
+White plastic horse.  (rocking horse?)
+
+Red Cross Human Blood Box.
+
+Bandaging materials for a wound.
+
+Lights Out List.
+
+Human blood bag.
+
+we rode on horses made of sticks.
+
+A sailboat.
+
+A wig made of doggy hair.
+
+
+
+we rode on horses made of sticks.
+
+Raggedy Andy.
+
+rocking horse.
+
+Clowns noses.
+
+A pile of fingernails.
+
+Raggedy Andy.
+
+we rode on horses made of sticks.
+
+Lights Out List.
+
+Clowns noses.
+
+Red Cross Human Blood Box.
+
+A sailboat.
+
+Clowns noses.
+
+Stomped geometries.
+
+Large handmade sign reading "man in search of shelter".
+
+A sailboat.
+
+The seashell radio.
+
+The seashell radio.
+
+A pile of fingernails.
+
+Lights Out List.
+
+Human blood bag.
+
+
+
+Raggedy Andy.
+
+Clowns noses.
+
+Bandaging materials for a wound.
+
+Lights Out List.
+
+Bandaging materials for a wound.
+
+Little bits of foil/bright shiny ribbons.
+
+Top of roof. "send help please".
+
+Little bits of foil/bright shiny ribbons.
+
+White plastic horse.  (rocking horse?)
+
+Human blood bag.
+
+A sailboat.
+
+Lights Out List.
+
+Human blood bag.
+
+The seashell radio.
+
+A sailboat.
+
+we rode on horses made of sticks.
+
+White plastic horse.  (rocking horse?)
+
+we rode on horses made of sticks.
+
+Red Cross Human Blood Box.
+
+The seashell radio.
+
+Top of roof. "send help please".
+
+Top of roof. "send help please".
+
+
+
+Clowns noses.
+
+Lights Out List.
+
+Large handmade sign reading "man in search of shelter".
+
+A sailboat.
+
+A wig made of doggy hair.
+
+A pile of fingernails.
+
+Lights Out List.
+
+we rode on horses made of sticks.
+
+A wig made of doggy hair.
+
+A sailboat.
+
+we rode on horses made of sticks.
+
+rocking horse.
+
+Sign reading "man in need of help".
+
+White plastic horse.  (rocking horse?)
+
+Larval maggoty Art Pupae.
+
+Clowns noses.
+
+A pile of fingernails.
+
+An important pocket knife.
+
+An important pocket knife.
+
+Stomped geometries.
+
+Clowns noses.
+
+we rode on horses made of sticks.
+
+Stomped geometries.
+
+Raggedy Andy.
+
+Raggedy Andy.
+
+Raggedy Andy.
+
+White plastic horse.  (rocking horse?)
+
+Red Cross Human Blood Box.
+
+rocking horse.
+
+Bandaging materials for a wound.
+
+Little bits of foil/bright shiny ribbons.
+
+Red Cross Human Blood Box.
+
+Sign reading "man in need of help".
+
+we rode on horses made of sticks.
+
+The seashell radio.
+
+we rode on horses made of sticks.
+
+A wig made of doggy hair.
+
+Large handmade sign reading "man in search of shelter".
+
+White plastic horse.  (rocking horse?)
+
+Lights Out List.
+
+Bandaging materials for a wound.
+
+A pile of fingernails.
+
+Lights Out List.
+
+Little bits of foil/bright shiny ribbons.
+
+An important pocket knife.
+
+The seashell radio.
+
+An important pocket knife.
+
+Stomped geometries.
+
+Large handmade sign reading "man in search of shelter".
+
+A pile of fingernails.
+
+Bandaging materials for a wound.
+
+Lights Out List.
+
+An important pocket knife.
+
+we rode on horses made of sticks.
+
+An important pocket knife.
+
+The seashell radio.
+
+rocking horse.
+
+A pile of fingernails.
+
+A wig made of doggy hair.
+
+A wig made of doggy hair.
+
+Raggedy Andy.
+
+
+
+Red Cross Human Blood Box.
+
+A wig made of doggy hair.
+
+Bandaging materials for a wound.
+
+Top of roof. "send help please".
+
+we rode on horses made of sticks.
+
+Little bits of foil/bright shiny ribbons.
+
+Red Cross Human Blood Box.
+
+
+
+
+
+The seashell radio.
+
+Human blood bag.
+
+A sailboat.
+
+Raggedy Andy.
+
+Raggedy Andy.
+
+Stomped geometries.
+
+we rode on horses made of sticks.
+
+Lights Out List.
+
+Lights Out List.
+
+Top of roof. "send help please".
+
+Clowns noses.
+
+An important pocket knife.
+
+Red Cross Human Blood Box.
+
+Raggedy Andy.
+
+Little bits of foil/bright shiny ribbons.
+
+Bandaging materials for a wound.
+
+Top of roof. "send help please".
+
+Clowns noses.
+
+A sailboat.
+
+Top of roof. "send help please".
+
+Stomped geometries.
+
+Human blood bag.
+
+Sign reading "man in need of help".
+
+Little bits of foil/bright shiny ribbons.
+
+Sign reading "man in need of help".
+
+Large handmade sign reading "man in search of shelter".
+
+Clowns noses.
+
+A pile of fingernails.
+
+Top of roof. "send help please".
+
+Larval maggoty Art Pupae.
+
+Human blood bag.
+
+Little bits of foil/bright shiny ribbons.
+
+Lights Out List.
+
+
+
+Clowns noses.
+
+White plastic horse.  (rocking horse?)
+
+rocking horse.
+
+Lights Out List.
+
+Large handmade sign reading "man in search of shelter".
+
+White plastic horse.  (rocking horse?)
+
+we rode on horses made of sticks.
+
+Red Cross Human Blood Box.
+
+Stomped geometries.
+
+An important pocket knife.
+
+Sign reading "man in need of help".
+
+A sailboat.
+
+
+
+Lights Out List.
+
+Red Cross Human Blood Box.
+
+Bandaging materials for a wound.
+
+Human blood bag.
+
+An important pocket knife.
+
+Top of roof. "send help please".
+
+Human blood bag.
+
+Little bits of foil/bright shiny ribbons.
+
+
+
+
+[A ->
+[ A
+
+quit ->
+hightail

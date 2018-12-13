@@ -1,0 +1,18 @@
+
+one ->
+uncomparable
+
+two ->
+binary digit
+
+three ->
+ace
+
+four ->
+five-spot
+
+five ->
+five
+
+six ->
+one-spot

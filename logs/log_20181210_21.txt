@@ -1,0 +1,3 @@
+
+red firetruck ->
+wobbly.n.01 firetruck
